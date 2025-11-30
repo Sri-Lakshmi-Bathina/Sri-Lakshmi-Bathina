@@ -94,23 +94,6 @@ _Remote • Mar 2022 – Sep 2022_
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sri-Lakshmi-Bathina&show_icons=true&theme=default"
-    alt="GitHub stats"
-    height="150"
-/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Lakshmi-Bathina&layout=compact&theme=default"
-    alt="Top languages"
-    height="150"
-/>
-</p>
-
----
-
 ## 📫 Connect
 
 - 📧 Email: <b>sbathina02@gmail.com</b>  
