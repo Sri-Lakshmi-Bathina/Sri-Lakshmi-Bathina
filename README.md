@@ -1,17 +1,12 @@
-<h1 align="center">Hi, I'm Sri Lakshmi Bathina 👋</h1>
+# Hi, I'm Sri Lakshmi 👋
 
-<p align="center">
-  <b>Data Science Graduate • Data / ML Engineer • Analytics Practitioner</b><br/>
-  Building scalable data pipelines, cloud-native ML, and analytics that drive real-world impact.
-</p>
+**MS in Data Science · Python · SQL · AWS · Power BI · Machine Learning & ETL Automation**
 
-<p align="center">
-  <a href="mailto:sbathina02@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/srilakshmibathina">LinkedIn</a> •
-  <a href="https://github.com/Sri-Lakshmi-Bathina">GitHub</a> •
-  <span>United States</span>
-</p>
+I design and build end‑to‑end data and AI solutions — from data pipelines and modeling to explainability and dashboards. My interests sit at the intersection of:
 
+- Applied machine learning & deep learning
+- Data engineering & analytics pipelines
+- Cloud-native AI on AWS and Google Cloud
 ---
 
 ## 🔎 About me
@@ -24,72 +19,46 @@
 
 ---
 
-## 💻 Tech Stack
+## 🚀 What I'm working on
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+- Preparing for **AWS Certified AI Practitioner (AWAI-C01)** with hands-on labs in AWS AI services  
+- Prototyping **AI agent and multi-agent workflows** using ideas from the Kaggle–Google AI Agents program  
+- Deploying ML and AI workloads on **AWS** and **Google Cloud Platform**, with a focus on simple, maintainable architectures
 
 ---
 
-## 📂 Featured projects
+## 🧠 Focus areas
 
-### 🌟 ChestXray-AI-LLM – AI for Chest X-ray Analysis
-<b>Repo:</b> <a href="https://github.com/Sri-Lakshmi-Bathina/ChestXray-AI-LLM">ChestXray-AI-LLM</a>  
-
-- DenseNet121-based model classifying 14 chest conditions with ~87% accuracy on the NIH dataset (~100K images).  
-- Grad-CAM visualizations and LLM-based textual summaries to improve explainability and stakeholder understanding.  
-- Streamlit app for interactive inference, reducing manual analysis time and making results accessible to non-technical users.  
+- Clinical and healthcare ML (classification, interpretability, model evaluation)
+- Scalable training and performance benchmarking for ML models
+- Data storytelling through interactive dashboards and reports
+- AI agents and multi-agent systems for automation and decision support
 
 ---
 
-### 🌟 Parallel-RandomForest-Comparison – Parallelized Model Training
-<b>Repo:</b> <a href="https://github.com/Sri-Lakshmi-Bathina/Parallel-RandomForest-Comparison">Parallel-RandomForest-Comparison</a>  
+## 📌 Featured projects
 
-- Benchmarked parallel vs non-parallel Random Forest training using `n_jobs` and `multiprocessing.Pool`.  
-- Achieved ~60% reduction in runtime while maintaining model performance and stability.  
-- Used systematic experimentation and visualization to communicate trade-offs between speed and accuracy.  
+🩻 **AI-Powered Chest X-ray Diagnostic System**  
+End-to-end pipeline on the NIH ChestX-ray14 dataset using PyTorch, TorchXRayVision, Grad-CAM, and Streamlit for explainable diagnosis.
 
----
+⚙️ **Parallel Random Forest Benchmarking**  
+Experiments with scikit-learn and multiprocessing to compare parallel vs non-parallel training, focusing on runtime, scalability, and F1-score.
 
-### 🌟 Spotify Stream Insights (coming soon as repo)
-<b>Planned repo name:</b> `Spotify-Stream-Insights`  
+🎵 **Spotify Streaming Analytics**  
+Analysis of 50K+ tracks with Python, pandas, and visualization libraries, plus interactive dashboards (Power BI / Matplotlib) to surface trends in popularity and audio features.
 
-- Analyzed 50K+ Spotify tracks to explore listener patterns, popularity metrics, and audio features.  
-- Identified correlations between popularity, acousticness, and energy, and trends in duration and release frequency.  
-- Designed an interactive Power BI dashboard for genre performance, artist dominance, and trend insights.  
+📊 **Business Reporting & ETL Automation**  
+Python + SQL pipelines and BI dashboards inspired by real analytics work, focusing on reducing reporting latency and manual effort.
 
 ---
 
-### 🌟 Car Pricing Trends & Regression (optional highlight)
-<b>Planned repo name:</b> `Car-Pricing-Trends-Regression`  
+## 🛠️ Tech stack
 
-- Regression modeling on 850K+ car listings to surface key price drivers and buy/sell periods.  
-- Compared algorithms (e.g., Random Forest, XGBoost, Linear Regression) to balance error metrics and interpretability.  
-- Communicated findings through visualizations and narrative summaries aligned with business questions.  
-
----
-
-## 💼 Professional experience
-
-### Data Analytics Intern – Phoenix Global  
-_Remote • Mar 2022 – Sep 2022_
-
-- Built Python + SQL ETL pipelines for 10K+ records, automating ingestion and transformation to cut reporting latency by ~30%.  
-- Designed Power BI dashboards and SQL models, saving 10+ hours/week of manual reporting and improving data accuracy across teams.  
-- Participated in Agile sprints to translate business requirements into scalable analytics solutions and more reliable pipelines.  
+**Languages:** Python, SQL, R  
+**ML & Data:** NumPy, pandas, scikit-learn, XGBoost, PyTorch, Grad-CAM  
+**Cloud & Data Engineering:** AWS (S3, EC2, Glue, Lambda), PySpark, ETL/ELT workflows, exposure to GCP & Vertex AI  
+**Visualization & Apps:** Power BI, Tableau, Matplotlib, Seaborn, Streamlit  
+**Tools & Practices:** Git, GitHub, Jupyter, VS Code, Agile/Scrum
 
 ---
 
